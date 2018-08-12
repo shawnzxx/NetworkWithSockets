@@ -1,0 +1,9 @@
+node_modules
+public
+.tmp
+.idea
+dist
+npm-debug.log
+server/ssl
+package-lock.json
+
